@@ -1,11 +1,16 @@
 _repo: The-Pilgrims-First-Christmas_66828
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66828-h/images/cover.jpg
 creator:
   author:
     agent_name: Scribner, Josephine Pittman
     gutenberg_agent_id: '53981'
     url: http://www.gutenberg.org/2009/agents/53981
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66828#The-Pilgrims-First-Christmas
 gutenberg_issued: '2021-11-26'
 identifiers:
   gutenberg: '66828'
